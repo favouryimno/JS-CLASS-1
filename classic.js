@@ -9,3 +9,5 @@ console.log(b);
 
 let c = 100;
 console.log(c)
+
+function add()
